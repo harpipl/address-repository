@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="address-repository-core" />
         <module name="address-repository-j2ee-ejb" />
-        <module name="address-repository-j2ee-war" />
         <module name="address-repository-spring" />
+        <module name="address-repository-j2ee-war" />
       </profile>
     </annotationProcessing>
   </component>
